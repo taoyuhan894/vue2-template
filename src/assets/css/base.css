@@ -1,0 +1,13 @@
+html, body, #app {
+  height: 100%;
+}
+.el-container {
+  height: 100%;
+}
+.el-menu .el-menu--horizontal{
+  border: none;
+}
+.el-carousel .el-carousel-item img {
+  width: 100%;
+  height: 100%;
+}
